@@ -1,9 +1,5 @@
 # Additive vs. Multiplicative Notation in Elliptic Curve Cryptography
 
-_Understanding the fundamental languages of elliptic curve protocols_
-
-## Introduction
-
 Working with Elliptic Curve Crypto, there are 2 (main) different notations - additive and multiplicative, representing different ways to think about group operations. Which one is better? We'll see the difference and identify which one is better for which protocol.
 
 ## TLDR: Side-by-Side Comparison
