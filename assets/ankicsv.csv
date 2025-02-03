@@ -1,0 +1,66 @@
+"7af92","\(\frac{d}{dx}\sin(x)\)","\(\cos(x)\)", trigonometry
+"b2e4c","\(\frac{d}{dx}\cos(x)\)","\(-\sin(x)\)", trigonometry
+"f3d1a","\(\frac{d}{dx}\tan(x)\)","\(\sec^2(x)\)", trigonometry
+"c8b95","\(\frac{d}{dx}\cot(x)\)","\(-\csc^2(x)\)", trigonometry
+"e6a47","\(\frac{d}{dx}\sec(x)\)","\(\sec(x)\tan(x)\)", trigonometry
+"d9c23","\(\frac{d}{dx}\csc(x)\)","\(-\csc(x)\cot(x)\)", trigonometry
+"7af92","\(\sin(\frac{\pi}{4}) = ?\)","\(\frac{\sqrt{2}}{2}\)",trigonometry
+"b2e4c","\(\cos(225°) = ?\)","\(-\frac{\sqrt{2}}{2}\)",trigonometry
+"f3d1a","\(\tan(150°) = ?\)","\(-\frac{1}{\sqrt{3}}\)",trigonometry
+"c8b95","\(\sin(\frac{5\pi}{6}) = ?\)","\(\frac{1}{2}\)",trigonometry
+"e6a47","\(\cos(\frac{7\pi}{6}) = ?\)","\(-\frac{\sqrt{3}}{2}\)",trigonometry
+"d9c23","\(\tan(315°) = ?\)","\(-1\)",trigonometry
+"k2m8p","\(\sin(300°) = ?\)","\(-\frac{\sqrt{3}}{2}\)",trigonometry
+"n4r7t","\(\cos(\frac{3\pi}{4}) = ?\)","\(-\frac{\sqrt{2}}{2}\)",trigonometry
+"w5x9y","\(\tan(\frac{11\pi}{6}) = ?\)","\(\frac{1}{\sqrt{3}}\)",trigonometry
+"h6j2l","\(\sin(135°) = ?\)","\(\frac{\sqrt{2}}{2}\)",trigonometry
+"q8v3m","\(\cos(\frac{2\pi}{3}) = ?\)","\(-\frac{1}{2}\)",trigonometry
+"s7t4n","\(\tan(240°) = ?\)","\(\sqrt{3}\)",trigonometry
+"u9p5k","\(\sin(\frac{7\pi}{4}) = ?\)","\(-\frac{\sqrt{2}}{2}\)",trigonometry
+"y2x8w","\(\cos(30°) = ?\)","\(\frac{\sqrt{3}}{2}\)",trigonometry
+"m4n6b","\(\tan(\frac{5\pi}{3}) = ?\)","\(\sqrt{3}\)",trigonometry
+"r7s2t","\(\sin(270°) = ?\)","\(-1\)",trigonometry
+"v9w4x","\(\cos(\frac{5\pi}{4}) = ?\)","\(-\frac{\sqrt{2}}{2}\)",trigonometry
+"z2y6a","\(\tan(120°) = ?\)","\(-\sqrt{3}\)",trigonometry
+"c4d8e","\(\sin(\frac{\pi}{6}) = ?\)","\(\frac{1}{2}\)",trigonometry
+"f6g2h","\(\cos(330°) = ?\)","\(\frac{\sqrt{3}}{2}\)",trigonometry
+"t1r5x","\(\int \sec^3(x) dx = ?\)","\(\frac{1}{2}(\sec(x)\tan(x) + \ln|\sec(x) + \tan(x)|) + C\)",trigonometry
+"y7k2m","\(\int \tan^2(x) dx = ?\)","\(\tan(x) - x + C\)",trigonometry
+"p4n8w","\(\int \sec(x)\tan(x) dx = ?\)","\(\sec(x) + C\)",trigonometry
+"q9c3v","\(\int \csc^2(x) dx = ?\)","\(-\cot(x) + C\)",trigonometry
+"h8m2x","\(\int \sin^2(x) dx = ?\)","\(\frac{x}{2} - \frac{\sin(2x)}{4} + C\)",trigonometry
+"j6k4n","\(\int \cos^2(x) dx = ?\)","\(\frac{x}{2} + \frac{\sin(2x)}{4} + C\)",trigonometry
+"w2p7r","\(\int \sec^2(x) dx = ?\)","\(\tan(x) + C\)",trigonometry
+"s5t9y","\(\int \sin(x)\cos(x) dx = ?\)","\(-\frac{1}{2}\cos(2x) + C\)",trigonometry
+"m3n6b","\(\int \csc(x)\cot(x) dx = ?\)","\(-\csc(x) + C\)",trigonometry
+"f8g2k","\(\int \tan^3(x) dx = ?\)","\(\frac{\tan^2(x)}{2} + \ln|\cos(x)| + C\)",trigonometry
+"d4h7j","\(\int \sin^3(x) dx = ?\)","\(-\cos(x) + \frac{\cos^3(x)}{3} + C\)",trigonometry
+"l2p5r","\(\int \cos^3(x) dx = ?\)","\(\sin(x) - \frac{\sin^3(x)}{3} + C\)",trigonometry
+"x7v3n","\(\int \csc^3(x) dx = ?\)","\(-\frac{1}{2}\csc(x)\cot(x) - \frac{1}{2}\ln|\csc(x) + \cot(x)| + C\)",trigonometry
+"c6b9m","\(\int \sec(x) dx = ?\)","\(\ln|\sec(x) + \tan(x)| + C\)",trigonometry
+"k4w8t","\(\int \csc(x) dx = ?\)","\(\ln|\csc(x) - \cot(x)| + C\)",trigonometry
+"a1b2c","\(What\ is\ the\ conceptual\ meaning\ of\ standard\ deviation?\)","\(A\ measure\ of\ variability\ that\ quantifies\ the\ average\ distance\ between\ each\ data\ point\ and\ the\ mean,\ providing\ insight\ into\ data\ dispersion.\ It\ represents\ the\ typical\ deviation\ from\ the\ central\ tendency.\)",statistics
+"d3e4f","\(What\ is\ the\ population\ standard\ deviation\ formula?\)","\(\sigma = \sqrt{\frac{\sum*{i=1}^{N} (x_i - \mu)^2}{N}}\ where\ \mu\ is\ the\ population\ mean\ and\ N\ is\ the\ population\ size\)",statistics
+"g5h6i","\(What\ is\ the\ key\ difference\ between\ sample\ and\ population\ variance?\)","\(Sample\ variance\ uses\ (n-1)\ in\ the\ denominator\ (Bessel's\ correction)\ to\ provide\ an\ unbiased\ estimator\ of\ population\ variance,\ while\ population\ variance\ uses\ N\)",statistics
+"j7k8l","\(Define\ covariance\ and\ its\ significance.\)","\(Covariance\ measures\ the\ joint\ variability\ between\ two\ variables,\ indicating\ both\ strength\ and\ direction\ of\ their\ linear\ relationship.\ Positive\ covariance\ indicates\ variables\ move\ together,\ negative\ indicates\ opposite\ movement.\)",statistics
+"m9n0p","\(Write\ the\ covariance\ formula\ for\ population\ data.\)","\(Cov(X,Y) = \frac{\sum*{i=1}^{N} (x*i - \mu_x)(y_i - \mu_y)}{N}\)",statistics
+"q1r2s","\(What\ is\ the\ z-score\ and\ why\ is\ it\ important?\)","\(Z-score\ represents\ the\ number\ of\ standard\ deviations\ a\ data\ point\ lies\ from\ the\ mean.\ It\ enables\ standardized\ comparison\ across\ different\ distributions\ and\ identifies\ outliers.\)",statistics
+"t3u4v","\(Write\ the\ z-score\ formula.\)","\(z = \frac{x - \mu}{\sigma}\ where\ x\ is\ the\ raw\ score,\ \mu\ is\ the\ mean,\ and\ \sigma\ is\ the\ standard\ deviation\)",statistics
+"w5x6y","\(What\ is\ the\ linear\ correlation\ coefficient\ (Pearson's\ r)?\)","\(A\ standardized\ measure\ of\ linear\ correlation\ between\ variables,\ ranging\ from\ -1\ to\ +1,\ where\ ±1\ indicates\ perfect\ linear\ relationship\ and\ 0\ indicates\ no\ linear\ relationship\)",statistics
+"z7a8b","\(Write\ Pearson's\ correlation\ coefficient\ formula.\)","\(r = \frac{\sum*{i=1}^{n} (x*i - \bar{x})(y_i - \bar{y})}{\sqrt{\sum*{i=1}^{n} (x*i - \bar{x})^2}\sqrt{\sum*{i=1}^{n} (y*i - \bar{y})^2}}\)",statistics
+"c9d0e","\(What\ is\ the\ purpose\ of\ a\ scatter\ plot?\)","\(A\ graphical\ representation\ that\ visualizes\ the\ relationship\ between\ two\ continuous\ variables,\ revealing\ patterns,\ correlations,\ and\ potential\ outliers\ in\ bivariate\ data.\)",statistics
+"f1g2h","\(Define\ linear\ regression\ and\ its\ purpose.\)","\(A\ statistical\ method\ that\ models\ the\ relationship\ between\ a\ dependent\ variable\ and\ independent\ variable(s)\ by\ fitting\ a\ linear\ equation\ to\ observed\ data,\ used\ for\ prediction\ and\ relationship\ quantification.\)",statistics
+"i3j4k","\(Write\ the\ simple\ linear\ regression\ equation.\)","\(y = mx + b\ or\ \hat{y} = b_0 + b_1x\ where\ b_0\ is\ the\ y-intercept\ and\ b_1\ is\ the\ slope\)",statistics
+"l5m6n","\(What\ are\ residuals\ in\ regression\ analysis?\)","\(The\ differences\ between\ observed\ values\ and\ predicted\ values\ (y - \hat{y}),\ representing\ the\ unexplained\ variation\ in\ the\ dependent\ variable.\)",statistics
+"o7p8q","\(What\ is\ the\ formula\ for\ the\ sample\ mean?\)","\(\bar{x} = \frac{\sum*{i=1}^{n} x_i}{n}\ where\ n\ is\ the\ sample\ size\)",statistics
+"r9s0t","\(What\ is\ Sum\ of\ Squares\ (SS)\ and\ its\ significance?\)","\(A\ measure\ of\ variation\ from\ the\ mean,\ calculated\ as\ \sum(x_i - \bar{x})^2.\ Forms\ the\ basis\ for\ variance\ calculations\ and\ regression\ analysis.\)",statistics
+"u1v2w","\(Explain\ the\ difference\ between\ correlation\ and\ causation.\)","\(Correlation\ indicates\ a\ statistical\ relationship\ between\ variables,\ while\ causation\ implies\ that\ changes\ in\ one\ variable\ directly\ cause\ changes\ in\ another.\ Correlation\ does\ not\ imply\ causation.\)",statistics
+"x3y4z","\(What\ is\ the\ purpose\ of\ trend\ line\ analysis?\)","\(To\ identify\ and\ visualize\ the\ overall\ direction\ and\ pattern\ in\ time-series\ data,\ enabling\ prediction\ and\ pattern\ recognition\ while\ smoothing\ out\ random\ fluctuations.\)",statistics
+"a5b6c","\(How\ is\ standard\ error\ of\ the\ mean\ calculated?\)","\(SE = \frac{s}{\sqrt{n}}\ where\ s\ is\ the\ sample\ standard\ deviation\ and\ n\ is\ the\ sample\ size\)",statistics
+"d7e8f","\(What\ is\ the\ coefficient\ of\ determination\ (R²)?\)","\(The\ proportion\ of\ variance\ in\ the\ dependent\ variable\ explained\ by\ the\ independent\ variable(s),\ ranging\ from\ 0\ to\ 1,\ where\ 1\ indicates\ perfect\ prediction.\)",statistics
+"g9h0i","\(Write\ the\ formula\ for\ R².\)","\(R^2 = 1 - \frac{\sum(y_i - \hat{y}\_i)^2}{\sum(y_i - \bar{y})^2}\ where\ \hat{y}\_i\ are\ predicted\ values\ and\ \bar{y}\ is\ the\ mean\ of\ observed\ values\)",statistics
+"j1k2l","\(What\ is\ the\ purpose\ of\ residual\ plots?\)","\(To\ assess\ regression\ assumptions,\ identify\ patterns\ in\ residuals,\ detect\ heteroscedasticity,\ and\ validate\ the\ appropriateness\ of\ linear\ regression\ model.\)",statistics
+"m3n4o","\(Define\ variance\ and\ its\ importance.\)","\(The\ average\ of\ squared\ deviations\ from\ the\ mean,\ measuring\ data\ spread.\ It's\ fundamental\ for\ understanding\ variability\ and\ forms\ the\ basis\ for\ many\ statistical\ analyses.\)",statistics
+"p5q6r","\(What\ is\ covariance\ standardization?\)","\(The\ process\ of\ dividing\ covariance\ by\ the\ product\ of\ standard\ deviations\ to\ obtain\ correlation,\ creating\ a\ standardized\ measure\ of\ relationship\ strength.\)",statistics
+"s7t8u","\(What\ is\ heteroscedasticity\ and\ why\ is\ it\ important?\)","\(A\ condition\ where\ the\ variability\ of\ residuals\ is\ not\ constant\ across\ predictor\ variables,\ violating\ a\ key\ assumption\ of\ linear\ regression\ and\ affecting\ inference\ validity.\)",statistics
+"v9w0x","\(What\ is\ the\ difference\ between\ population\ and\ sample\ parameters?\)","\(Population\ parameters\ are\ fixed,\ unknown\ values\ for\ entire\ populations\ (μ,\ σ),\ while\ sample\ statistics\ are\ calculated\ estimates\ from\ samples\ (\bar{x},\ s)\ used\ to\ infer\ population\ parameters.\)",statistics
